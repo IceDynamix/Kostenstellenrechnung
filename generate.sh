@@ -18,7 +18,7 @@ run # run on first open
 while true
 do
     sleep 2
-    if [ md -nt beamer ]; then
+    if [ $md -nt $beamer ]; then
         run
     fi
 done
