@@ -1,7 +1,7 @@
 #!/bin/sh
 # file watcher that checks for a modified md file every 2 seconds
 
-name=main
+name=kostenstellenrechnung
 md=${name}.md
 beamer=${name}_beamer.pdf
 handout=${name}_handout.pdf
