@@ -102,7 +102,7 @@ Verhältnisse sind auch nicht unbedingt gemäß der Realität. -->
 ::::
 :::
 
-# Live Demo {.standout}
+# Live Demo
 
 Beispiel mit Google Sheets
 
