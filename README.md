@@ -1,5 +1,7 @@
 # Kostenstellenrechnung (cost center accounting)
 
+15/15 points
+
 ok so basically this is a german slideshow + handout made in like 3h prepared
 with one markdown file that converts to both latex article (handout) and beamer
 (slideshow).
